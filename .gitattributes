@@ -1,0 +1,3 @@
+*.txt filter=my_clean_filter
+*.txt filter=my_smudge_filter
+
